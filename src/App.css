@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.todo-form{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+.App{
+  border: #bfbfbf 1px solid;
+  padding: 50px 77px;
+  background: #6c82ff;
+  border-radius: 6px;
+  box-shadow: 0px 0px 5px 2px #d6d6d6;
+}
+
+.MuiTypography-body1{
+  width: 100%;
+}
+
+.MuiListItem-root{
+  padding: 0px;
+  
+}
